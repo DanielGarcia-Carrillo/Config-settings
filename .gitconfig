@@ -3,3 +3,5 @@
 	email = danielgc@yahoo-inc.com
 [alias]
 	tree = log --oneline --decorate --color --graph
+[help]
+	autocorrect = 1
