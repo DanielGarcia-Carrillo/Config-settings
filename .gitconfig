@@ -1,0 +1,5 @@
+[user]
+	name = Daniel Garcia-Carrillo
+	email = danielgc@yahoo-inc.com
+[alias]
+	tree = log --oneline --decorate --color --graph
