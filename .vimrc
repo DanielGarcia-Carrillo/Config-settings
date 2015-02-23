@@ -1,4 +1,4 @@
-# Line numbers
+" Line numbers
 set nu
-# highlight current line
+" highlight current line
 set cursorline
