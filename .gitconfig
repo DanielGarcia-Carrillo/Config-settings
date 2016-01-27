@@ -7,3 +7,4 @@
 	autocorrect = 1
 [core]
 	excludesfile = ~/.gitignore
+	editor = vi
